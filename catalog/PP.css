@@ -1,0 +1,30 @@
+#corp {
+	text-align: center;
+	color: black;
+	font-family: cambria;
+	font-size: 25px;
+}
+#titlu {
+	font-family: Times New Roman;
+	font-size: 30px;
+}
+#culoare{
+	color : white;
+	font-size: 20px;
+}
+.slides-container {
+  max-width: 300px;
+  position: relative;
+  margin: auto;
+}
+.slidetext {
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+.myslides {
+	display: none;
+}
